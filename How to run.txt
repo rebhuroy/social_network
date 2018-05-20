@@ -1,0 +1,32 @@
+How TO Run social network project
+
+
+REQUIREMENT:
+
+system resolution 1366x768 must be set.
+Mozila Firefox 17 
+Xammp web server latest version
+
+
+step 1: Extract file 
+step 2: copy fb folder
+step 3: paste in xampp/htdocs
+step 4: open browser  and tye "http://localhost/phpmyadmin/"
+
+step 5:now create databse name it as socila_network
+step 6:import the .sql file on your phpmyadmin 
+
+ 
+now your project ready:
+you may login as a user just by typing username as r@mail.com
+and password as 123456  or you can sign up and log in again
+
+create new account and login and enjoy....!!! socila networking
+
+
+if any problem and any query then mail me roy.rebhu@gmail.com
+Enjoy...!!
+
+
+
+ 
